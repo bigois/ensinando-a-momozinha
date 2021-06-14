@@ -1,5 +1,5 @@
 simbora samba lele
 
 function blablabla() {
-	return 'novinha vem q vem... oooh vem que vem, meu bem"
+	return 'novinha vem q vem... oooh vem que vem, meu bem'
 }
