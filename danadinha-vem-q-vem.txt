@@ -1,5 +1,5 @@
 simbora samba lele
 
-function blablabla() {
+function escolinha_do_professor_raimundo() {
 	return 'novinha vem q vem... oooh vem que vem, meu bem"
 }
